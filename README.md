@@ -4,9 +4,15 @@
 
 ## Welcome!
 
-Thank you for visiting the Commons4Academics workshop repository. We are about to organise a comprehensive set of tools for administering an academic section as a commons and present them as a workshop.
+Thank you for visiting the Commons4Academics workshop repository. We are organising a toolbox for administering an academic section as a commons and would like to present them in a workshop.
 
 This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
+
+## Vision
+
+We with experts on the theory of commons to organize a training workshop for fellow academics to enables them organize their resources and manage in form of a commons. We work openly because we observe the need for such training and hope to make it widely accessible. 
+
+Our cultural goal is to convince colleagues that commons is a good formation for organization and governance of academic resources. Our ambition is to organise this project as a logical series of tasks and guidelines suitable for adaptation, revision, and reproduction for follow-up events.
 
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
@@ -15,6 +21,7 @@ This document (the README file) is a hub to give you some information about the 
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
 * [Understand the jargon](#glossary)
+
 
 ## What are we doing?
 
@@ -41,3 +48,7 @@ Initiators of this project are Annemarie Kalis and Sanli Faez, with the support 
 
 - Examples of real-life resources in the university or academia in general that can be governed more efficiently 
 - Enthusiastic people who want to think big with us and also take the small steps for making actual change happen
+
+## Definition of commons
+
+The Digital Library of the Commons defines "commons" as "a general term for shared resources in which each stakeholder has an equal interest. To learn more, you can start from reading the [wikipedia entry on commons](https://en.wikipedia.org/wiki/Commons).
