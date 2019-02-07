@@ -1,6 +1,6 @@
 # Commons for Academics Workshop
 
-*** Academia is a commons, learn how to govern it like a commoner***
+*** Consider Academia as a commons, how should we govern like a commoners?***
 
 ## Welcome!
 
