@@ -37,11 +37,12 @@ Learning to manage academic resources as common property
 ### 10 - 10:15: Opening and introduction
 * Format and aim of the workshop, Organizers
 
-### 10:20 - 11:30: Theory
+### 10:20 - 11:40: Theory
 * The fundamentals of commons applied to academia, Tine de Moor
 * Scholarly commons, Bianca Kramer and Jeroen Bosman
+* Towards accepted behavior change (ABC) in academia, Lars Tummers
 
-### 11:50 - 12:30: Solution space
+### 12:00 - 12:40: Solution space
 * Towards accepted behavior change (ABC) in academia, Lars Tummers
 * Managing collectives, (tba)
 
